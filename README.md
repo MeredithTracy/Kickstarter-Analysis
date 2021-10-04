@@ -31,7 +31,7 @@ Overall, there was not a lot of data for the canceled theater kickstarters. This
 This image shows the dataset for the chart titled Outcomes Based on Goals
 
 
-![Outcomes_vs_Goals](https://github.com/MeredithTracy/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/MeredithTracy/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 This image shows the chart titled Outcomes Based on Goals
 
