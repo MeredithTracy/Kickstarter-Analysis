@@ -1,8 +1,8 @@
 # Kickstarter-Analysis
-Perform an analysis using the [Kickstarter Dataset](https://github.com/MeredithTracy/Kickstarter-Analysis/blob/main/Kickstarter_Challenge.xlsx) to assist Louise in comparing how her kickstarter for her play, Fever, fared compared to others. Louise mainly wants to focus on the funding goals and launch dates. 
+Perform an analysis using the [Kickstarter Dataset](https://github.com/MeredithTracy/Kickstarter-Analysis/blob/main/Kickstarter_Challenge%20-%20Clean.xlsx) to assist Louise in comparing how her kickstarter for her play, Fever, fared compared to others. Louise mainly wants to focus on the funding goals and launch dates. 
 
 ## Process
-The [Kickstarter Dataset](https://github.com/MeredithTracy/Kickstarter-Analysis/blob/main/Kickstarter_Challenge.xlsx) is large and has a lot of variety in the data provided so filtering and sorting the data was critical to finding the answers. Using pivot tables and COUNTIFS functions, I was able to narrow the data. One of the challenges I faced working with this data was the columns that existed in the original set. They were not the most efficient way to sort through the data. I was able to split and create new columns for most of these challenges but to get to the “Outcomes Based on Goals” chart, seen below, I had to manually enter each formula for every section which added time to the overall analysis. 
+The [Kickstarter Dataset](https://github.com/MeredithTracy/Kickstarter-Analysis/blob/main/Kickstarter_Challenge%20-%20Clean.xlsx) is large and has a lot of variety in the data provided so filtering and sorting the data was critical to finding the answers. Using pivot tables and COUNTIFS functions, I was able to narrow the data. One of the challenges I faced working with this data was the columns that existed in the original set. They were not the most efficient way to sort through the data. I was able to split and create new columns for most of these challenges but to get to the “Outcomes Based on Goals” chart, seen below, I had to manually enter each formula for every section which added time to the overall analysis. 
 
 ## Analysis
 
